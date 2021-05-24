@@ -1,2 +1,4 @@
 # Hello-World
-Hello World for tutorial
+Aloha bitches
+
+I guess you're supposed to read this, cool.
